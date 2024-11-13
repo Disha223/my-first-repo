@@ -1,3 +1,4 @@
 this is my first repo
 programming 
-I am from udupi
+I am from udupi 
+I love coding
